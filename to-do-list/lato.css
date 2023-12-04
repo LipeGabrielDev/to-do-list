@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto&display=swap');
+
+@font-face {
+    font-family: 'Lato';
+    src: url(./lato-regular.ttf) format(woff2);
+}
